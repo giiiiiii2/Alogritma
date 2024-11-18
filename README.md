@@ -1,2 +1,3 @@
 # Alogritma
-PAA kelas C
+Nama : Anggita Setiawati
+Nim : F55123092
