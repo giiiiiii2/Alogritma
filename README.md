@@ -17,8 +17,10 @@ Metode Conquer (Merge Sort)
 # Penjelasan Analisis Best Case:
 # Metode Naive (Bubble Sort):
 Pada kondisi terbaik, array sudah terurut, sehingga algoritma tidak melakukan pertukaran apapun. Proses sorting menjadi lebih cepat karena algoritma dapat menghentikan iterasi lebih awal berkat flag swapped yang tetap False.
-# Jumlah Perbandingan: Hanya diperlukan sebanyak n-1 perbandingan (49 kali jika array terdiri dari 50 elemen).
-# Jumlah Pertukaran: Tidak ada pertukaran yang terjadi (swaps = 0).
+# Jumlah Perbandingan: 
+Hanya diperlukan sebanyak n-1 perbandingan (49 kali jika array terdiri dari 50 elemen).
+# Jumlah Pertukaran: 
+Tidak ada pertukaran yang terjadi (swaps = 0).
 # Kompleksitas:
   # Best Case Time Complexity:
     O(n)Kompleksitas terbaik terjadi ketika array sudah terurut, dan algoritma hanya memerlukan satu iterasi untuk memeriksa data.
