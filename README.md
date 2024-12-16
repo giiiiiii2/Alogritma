@@ -1,6 +1,7 @@
-
 # Algoritma
-C_Anggita Setiawati_F55123092
+Nama: Anggita Setiawati  
+Nim: F55123092  
+Kelas: C
 
 # QUIZ 2
 <!-- Anggita Stiawati_F55123092 -->
